@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 64px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+}
+
+.recipe-container {
+  text-align: center;
+}
+
+.recipe {
+  font-size: 32px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: antiquewhite;
+}
+
+.bibimbap {
+  padding-left: 25px;
+}
